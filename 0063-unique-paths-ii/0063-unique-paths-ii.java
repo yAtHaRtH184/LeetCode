@@ -88,6 +88,37 @@ class Solution {
     // }
 
 //space optimisaion 
+    // public int uniquePathsWithObstacles(int[][] obstacleGrid) {
+    //     int m=obstacleGrid.length;
+    //     int n=obstacleGrid[0].length;    
+    //     if(obstacleGrid[0][0]==1 || obstacleGrid[m-1][n-1]==1){
+    //         return 0;
+    //     }
+    //     int[]prev= new int[n];
+        
+    //     for(int j=0; j<n; j++){
+    //         if(obstacleGrid[0][j]!=1)prev[j]=1;
+    //         else break;
+    //     }
+
+    //     for(int i=1; i<m; i++){
+    //         int[] temp=new int[n];
+    //         if(obstacleGrid[i][0]!=1)temp[0]=prev[0];
+    //         else temp[0]=0;
+    //         for(int j=1; j<n; j++){
+    //             if(obstacleGrid[i][j]!=1){
+    //                 temp[j]=prev[j]+temp[j-1];
+    //             }
+    //             else{
+    //                 temp[j]=0;
+    //             }
+    //         }
+    //         prev=temp;
+    //     }
+    //     return prev[n-1];
+    // }
+
+// using only one 1darray
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
         int m=obstacleGrid.length;
         int n=obstacleGrid[0].length;    
@@ -102,18 +133,15 @@ class Solution {
         }
 
         for(int i=1; i<m; i++){
-            int[] temp=new int[n];
-            if(obstacleGrid[i][0]!=1)temp[0]=prev[0];
-            else temp[0]=0;
+            if(obstacleGrid[i][0]==1)prev[0]=0;
             for(int j=1; j<n; j++){
                 if(obstacleGrid[i][j]!=1){
-                    temp[j]=prev[j]+temp[j-1];
+                    prev[j]=prev[j]+prev[j-1];
                 }
                 else{
-                    temp[j]=0;
+                    prev[j]=0;
                 }
             }
-            prev=temp;
         }
         return prev[n-1];
     }
