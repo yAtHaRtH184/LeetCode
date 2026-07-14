@@ -57,33 +57,64 @@ class Solution {
     // }
 
 // Tabulation
+    // public int uniquePathsWithObstacles(int[][] obstacleGrid) {
+    //     int m=obstacleGrid.length;
+    //     int n=obstacleGrid[0].length;    
+    //     if(obstacleGrid[0][0]==1 || obstacleGrid[m-1][n-1]==1){
+    //         return 0;
+    //     }
+    //     int[][] dp=new int[m][n];
+        
+    //     for(int i=0; i<m; i++){
+    //         if(obstacleGrid[i][0]!=1)dp[i][0]=1;
+    //         else break;
+    //     }
+    //     for(int j=0; j<n; j++){ 
+    //         if(obstacleGrid[0][j]!=1)dp[0][j]=1;
+    //         else break;
+    //     }
+
+    //     for(int i=1; i<m; i++){
+    //         for(int j=1; j<n; j++){
+    //             if(obstacleGrid[i][j]!=1){
+    //                 dp[i][j]=dp[i-1][j]+dp[i][j-1];
+    //             }
+    //             else{
+    //                 dp[i][j]=0;
+    //             }
+    //         }
+    //     }
+    //     return dp[m-1][n-1];
+    // }
+
+//space optimisaion 
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
         int m=obstacleGrid.length;
         int n=obstacleGrid[0].length;    
         if(obstacleGrid[0][0]==1 || obstacleGrid[m-1][n-1]==1){
             return 0;
         }
-        int[][] dp=new int[m][n];
+        int[]prev= new int[n];
         
-        for(int i=0; i<m; i++){
-            if(obstacleGrid[i][0]!=1)dp[i][0]=1;
-            else break;
-        }
-        for(int j=0; j<n; j++){ 
-            if(obstacleGrid[0][j]!=1)dp[0][j]=1;
+        for(int j=0; j<n; j++){
+            if(obstacleGrid[0][j]!=1)prev[j]=1;
             else break;
         }
 
         for(int i=1; i<m; i++){
+            int[] temp=new int[n];
+            if(obstacleGrid[i][0]!=1)temp[0]=prev[0];
+            else temp[0]=0;
             for(int j=1; j<n; j++){
                 if(obstacleGrid[i][j]!=1){
-                    dp[i][j]=dp[i-1][j]+dp[i][j-1];
+                    temp[j]=prev[j]+temp[j-1];
                 }
                 else{
-                    dp[i][j]=0;
+                    temp[j]=0;
                 }
             }
+            prev=temp;
         }
-        return dp[m-1][n-1];
+        return prev[n-1];
     }
 }
