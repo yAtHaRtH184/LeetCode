@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/yAtHaRtH184/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yAtHaRtH184/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0189-rotate-array](https://github.com/yAtHaRtH184/LeetCode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/yAtHaRtH184/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yAtHaRtH184/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Matrix
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yAtHaRtH184/LeetCode/tree/master/0189-rotate-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/yAtHaRtH184/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
