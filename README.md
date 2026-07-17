@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/yAtHaRtH184/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0189-rotate-array](https://github.com/yAtHaRtH184/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/yAtHaRtH184/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1539-kth-missing-positive-number](https://github.com/yAtHaRtH184/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yAtHaRtH184/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Matrix
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yAtHaRtH184/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/yAtHaRtH184/LeetCode/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
