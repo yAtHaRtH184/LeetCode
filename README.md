@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/yAtHaRtH184/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/yAtHaRtH184/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yAtHaRtH184/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0392-is-subsequence](https://github.com/yAtHaRtH184/LeetCode/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/yAtHaRtH184/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Combinatorics
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yAtHaRtH184/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/yAtHaRtH184/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/yAtHaRtH184/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yAtHaRtH184/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/yAtHaRtH184/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/yAtHaRtH184/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/yAtHaRtH184/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/yAtHaRtH184/LeetCode/tree/master/0771-jewels-and-stones) |
