@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yAtHaRtH184/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/yAtHaRtH184/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/yAtHaRtH184/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/yAtHaRtH184/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/yAtHaRtH184/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/yAtHaRtH184/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/yAtHaRtH184/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/yAtHaRtH184/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yAtHaRtH184/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/yAtHaRtH184/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/yAtHaRtH184/LeetCode/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/yAtHaRtH184/LeetCode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
