@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/yAtHaRtH184/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/yAtHaRtH184/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/yAtHaRtH184/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/yAtHaRtH184/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yAtHaRtH184/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yAtHaRtH184/LeetCode/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/yAtHaRtH184/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/yAtHaRtH184/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
