@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/yAtHaRtH184/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/yAtHaRtH184/LeetCode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yAtHaRtH184/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yAtHaRtH184/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/yAtHaRtH184/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/yAtHaRtH184/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yAtHaRtH184/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yAtHaRtH184/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Queue
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/yAtHaRtH184/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yAtHaRtH184/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
