@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/yAtHaRtH184/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yAtHaRtH184/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yAtHaRtH184/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yAtHaRtH184/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/yAtHaRtH184/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yAtHaRtH184/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yAtHaRtH184/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yAtHaRtH184/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
 |  |
 | ------- |
@@ -95,11 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yAtHaRtH184/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yAtHaRtH184/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/yAtHaRtH184/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yAtHaRtH184/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yAtHaRtH184/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/yAtHaRtH184/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yAtHaRtH184/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yAtHaRtH184/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
