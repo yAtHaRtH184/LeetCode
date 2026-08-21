@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/yAtHaRtH184/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/yAtHaRtH184/LeetCode/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/yAtHaRtH184/LeetCode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/yAtHaRtH184/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/yAtHaRtH184/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Combinatorics
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/yAtHaRtH184/LeetCode/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/yAtHaRtH184/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/yAtHaRtH184/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0416-partition-equal-subset-sum](https://github.com/yAtHaRtH184/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yAtHaRtH184/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/yAtHaRtH184/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yAtHaRtH184/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -132,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yAtHaRtH184/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yAtHaRtH184/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/yAtHaRtH184/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/yAtHaRtH184/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
